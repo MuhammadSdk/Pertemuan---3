@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(187, 205, 211);
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+div {
+    height: 300px;
+    width: 70%;
+    background-color: rgb(68, 176, 212);
+}
