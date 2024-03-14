@@ -9,5 +9,12 @@ h1 {
 div {
     height: 300px;
     width: 70%;
-    background-color: rgb(68, 176, 212);
+    background-color: rgb(48, 163, 201);
+}
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
